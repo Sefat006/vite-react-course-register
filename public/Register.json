@@ -1,0 +1,77 @@
+{
+    "courses": [
+      {
+        "course_id": "CS101",
+        "course_name": "Introduction to C Programming",
+        "image_url": "https://i.ibb.co/5Fghxyb/1688275415052.png",
+        "course_credit": 3,
+        "price": 49.99,
+        "course_details": " Covers basic syntax, control structures, functions, arrays, pointers, strings, file handling, and debugging. Suitable for beginners. No prerequisites. Instructor-led with hands-on exercises. Duration: 8-12 weeks. Assessment via quizzes, assignments, and final project. Certificate provided upon completion."
+      },
+      {
+        "course_id": "ENG201",
+        "course_name": "Introduction to Algorithms",
+        "image_url": "https://i.ibb.co/zZpVSjH/Algorithms.png",
+        "course_credit": 4,
+        "price": 69.99,
+        "course_details": "Introduction to Algorithms covers algorithm design, analysis, and implementation. Topics include sorting, searching, data structures, and algorithmic techniques. Emphasis on efficiency and complexity analysis. Fundamental for computer science and engineering disciplines."
+      },
+      {
+        "course_id": "MATH301",
+        "course_name": "Introduction to C++ for DSA",
+        "image_url": "https://i.ibb.co/YktP3Lk/algorithm.png",
+        "course_credit": 5,
+        "price": 79.99,
+        "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+      },
+      {
+        "course_id": "BUS401",
+        "course_name": "Basic Data Structure",
+        "image_url": "https://i.ibb.co/S7yvPfP/data-structure.png",
+        "course_credit": 3,
+        "price": 59.99,
+        "course_details": "This course covers fundamental data structures such as arrays, linked lists, stacks, queues, and trees. Topics include implementation, operations, and applications in algorithm design. Suitable for beginners in programming and computer science."
+      },
+      {
+        "course_id": "PHY202",
+        "course_name": "Introduction to OOP Python",
+        "image_url": "https://i.ibb.co/rcsBFfv/OOP-Python.webp",
+        "course_credit": 4,
+        "price": 89.99,
+        "course_details": "Introduction to OOP Python covers basics of Object-Oriented Programming (OOP) in Python. Topics include classes, objects, inheritance, encapsulation, and polymorphism. Hands-on exercises reinforce concepts. Suitable for beginners."
+      },
+      {
+        "course_id": "ART121",
+        "course_name": "Software Engineering",
+        "image_url": "https://i.ibb.co/pnnhFZP/software-engineering-featured.webp",
+        "course_credit": 2,
+        "price": 39.99,
+        "course_details": "Software Engineering covers principles, methods, and tools for designing, developing, and maintaining software systems. Topics include requirements engineering, design patterns, testing, and project management. Emphasis on systematic approaches to software development and quality assurance."
+      },
+      {
+        "course_id": "AWS",
+        "course_name": "AWS, Cloud Computing",
+        "image_url": "https://i.ibb.co/YQvSx5N/AWS-Cloud-Computing.jpg",
+        "course_credit": 2,
+        "price": 79,
+        "course_details": "Learn AWS & Cloud Computing fundamentals in this concise course. Covering AWS services, storage, compute, networking, security, and deployment. Gain skills in cloud architecture, scalability, cost management, and best practices. Perfect for beginners or professionals seeking to enhance their cloud expertise."
+      },
+      {
+        "course_id": "MySQL",
+        "course_name": "Database (MySQL)",
+        "image_url": "https://i.ibb.co/RHtW8rr/MYSQL-Database-768x427-jpg.webp",
+        "course_credit": 3,
+        "price": 89,
+        "course_details": "Database (MySQL) covers fundamentals of MySQL database management system including data modeling, querying, normalization, and basic administration. Participants learn SQL syntax, database design principles, and practical skills for building and managing databases. Suitable for beginners and those seeking to enhance their database management skills."
+      },
+      {
+        "course_id": "PrblmSlving",
+        "course_name": "Problem-Solving Part",
+        "image_url": "https://i.ibb.co/VHR8S9d/image9-3-768x583.png",
+        "course_credit": 4,
+        "price": 129,
+        "course_details": "Problem-Solving Part covers techniques like root cause analysis, brainstorming, and decision matrices to identify, analyze, and resolve issues efficiently. It emphasizes critical thinking, creativity, and collaboration to tackle complex problems across various domains effectively."
+      }
+    ]
+  }
+  
