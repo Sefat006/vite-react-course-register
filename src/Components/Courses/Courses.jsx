@@ -14,7 +14,7 @@ const Courses = ({handleBookmarks, handleCreditHour, handlePrices}) => {
     return (
         <div className=''>
             <h1 className='text-2xl font-bold mb-4'>Courses: {courses.length}</h1>
-            <div className='mr-8 grid sm:grid-cols-2 md:grid-cols-2 gap-4'>
+            <div className='mr-8 grid md:grid-cols-2 lg:grid-cols-3 gap-4'>
                 {
                     courses.map( course => <Course 
                         key={course.course_id}
