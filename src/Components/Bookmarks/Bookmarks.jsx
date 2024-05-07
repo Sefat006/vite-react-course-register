@@ -1,14 +1,14 @@
 
 import Bookmark from "../Bookmark/Bookmark"
 import { PropTypes } from 'prop-types';
-const Bookmarks =({bookmarks, creditHour}) => {
+const Bookmarks =({bookmarks, creditHour, prices}) => {
     return (
         <div className='sm:w-max bg-slate-200 mt-4 rounded-md p-4'>
             <h1 className='text-2xl font-bold'>Course Name</h1>
             <div className="mt-4">
-            {
-                bookmarks.map( bookmark => <Bookmark bookmark={bookmark}></Bookmark>)
-            }
+                {
+                    bookmarks.map( bookmark => <Bookmark bookmark={bookmark}></Bookmark>)
+                }
             </div>
             <hr className="border-black mb-4"/>
             <h2 className="font-semibold">Total Credit Hour : {creditHour}</h2>

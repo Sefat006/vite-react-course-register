@@ -29,9 +29,9 @@ function App() {
       <div className='sm:flex md:flex'>
           <div>
               <Courses 
-              handleBookmarks={handleBookmarks} 
-              handleCreditHour={handleCreditHour} 
-              handlePrices={handlePrices}
+              handleBookmarks={handleBookmarks} //ekhane func er name declare korbo cz course er vitore course ache and course er moddhe btn gulo exist kore
+              handleCreditHour={handleCreditHour} //3 ta btn courses er map e use kora hoise, tai ekhane courses er vitore declare korse
+              handlePrices={handlePrices} //perameter eo declare korte hobe courses er moddhe
               ></Courses>
           </div>
           <div className='mt-10'>
